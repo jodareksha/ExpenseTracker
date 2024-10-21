@@ -78,7 +78,10 @@ Now that you have successfully run the app, let's modify it.
   - exchange currency in + button blue color for exchange currency
   - can be register in application
 
-## may not complete feature : - create budget - Profile not complete like used to be
+## may not complete feature :
+
+- create budget for monthly calculation
+- Profile not complete like used to be
 
 ## summary for the application :
 
