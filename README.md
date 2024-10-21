@@ -28,7 +28,7 @@ npm start
 yarn start
 ```
 
-## Step 2: Start your Application
+## Step 3: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
@@ -56,7 +56,7 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
+## Step 4: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
 
@@ -65,14 +65,26 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
+## Step 5: The Feature of following aplication Expense
 
-You've successfully run and modified your React Native App. :partying_face:
+- Admin feature
+  - Admin can delete and can see all the data spending all user
+  - admin can be registered in application
+- user feature
+  - can add income
+  - can add spending
+  - can see the chart spending for 7 day & 30 days
+  - line Chart for today spending
+  - exchange currency in + button blue color for exchange currency
+  - can be register in application
 
-### Now what?
+## may not complete feature : - create budget - Profile not complete like used to be
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+## summary for the application :
+
+- From the start to finish the application need time to complete, because limited time the application not completed like this [figma] (https://www.figma.com/design/WJjHbGKZCQti2aHGUzneDT/Montra---Expense-Tracker-UI-Kit-(Community)?node-id=223-1&node-type=canvas&t=0D2KZ73bkG4mIRZf-0) page.
+- so for the MVP functional & additional piechart can bee see in the user part & admin part
+- for the admin is 1 page for see all user & finance report in pieChart visual + category breakdown + animation progress
 
 # Troubleshooting
 
